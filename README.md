@@ -1,5 +1,5 @@
 # TimeAttack
-Time-based attack on passwords
+Time-based attack on passwords (https://en.wikipedia.org/wiki/Timing_attack)
 
 Usage:\
 python timing.py login_url username\
